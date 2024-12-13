@@ -11,3 +11,6 @@
 [submodule "hypercube"]
 	path = hypercube
 	url = https://github.com/cran/hypercube
+[submodule "orderanalyzer"]
+	path = orderanalyzer
+	url = https://github.com/cran/orderanalyzer
